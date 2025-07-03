@@ -46,7 +46,7 @@ Boas práticas de organização
 Iohan Barbiere
 Estudante de programação e entusiasta de backend.
 📍 Espírito Santo, Brasil
-📧 [SeuEmail@email.com] (opcional)
+📧 [iohanf@hotmail.com] (opcional)
 🐙 GitHub: @Iohanf
 
 
